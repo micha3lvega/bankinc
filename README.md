@@ -89,7 +89,7 @@ En un navegador de internet, ir a http://localhost:8080/swagger-ui/index.html
 
 # Postman
 Para ver la documentacion postman ingrese aqui
-https://documenter.getpostman.com/view/4294452/2s93zB4M1m
+https://documenter.getpostman.com/view/4294452/2sA3QqfYCC
 
 # Pruebas unitarias
 Sonar
