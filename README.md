@@ -65,7 +65,7 @@ El valor de la transacción se devuelve al saldo de la tarjeta.
 
 # Diagramas
 ## Modelo entidad relacion
-![Modelo entidad relacion](https://github.com/micha3lvega/bankinc/blob/despliegue/images/MER.png)
+![Modelo entidad relacion](https://github.com/micha3lvega/bankinc/blob/main/images/MER.png)
 
 ## Instalación y Configuración
 
@@ -85,7 +85,7 @@ Ejecucion
 
 En un navegador de internet, ir a http://localhost:8080/swagger-ui/index.html
 
-![swagger](https://github.com/micha3lvega/bankinc/blob/despliegue/images/swagger-ui.png)
+![swagger](https://github.com/micha3lvega/bankinc/blob/main/images/swagger-ui.png)
 
 # Postman
 Para ver la documentacion postman ingrese aqui
@@ -94,4 +94,4 @@ https://documenter.getpostman.com/view/4294452/2s93zB4M1m
 # Pruebas unitarias
 Sonar
 
-![Pruebas unitarias](https://github.com/micha3lvega/bankinc/blob/despliegue/images/sonar.png)
+![Pruebas unitarias](https://github.com/micha3lvega/bankinc/blob/main/images/sonar.png)
