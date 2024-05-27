@@ -36,6 +36,7 @@ public class CardController {
 		return cardServices.generateCard(productId);
 	}
 
+	@GetMapping("/balance/{cardId}")
 	@Operation(summary = "Obtener el saldo de una tarjeta", description = "Obtiene el saldo actual de una tarjeta.")
 	@ApiResponse(responseCode = "200", description = "Saldo obtenido exitosamente", content = @Content(schema = @Schema(implementation = GetBalanceResponse.class)))
 	@ApiResponse(responseCode = "404", description = "Tarjeta no encontrada", content = @Content(schema = @Schema(implementation = ExceptionResponse.class)))
